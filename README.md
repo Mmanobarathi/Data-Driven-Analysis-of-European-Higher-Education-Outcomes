@@ -13,29 +13,22 @@ Higher education data is widely used by:
 ----------------------------------------
 
 policymakers,
-
 educational institutions,
-
 and international organizations
 
 to understand:
 --------------
 
 gender imbalance,
-
 degree-level participation,
-
 cross-country differences,
-
 and long-term education trends.
 
 This project answers real analytical questions, such as:
 -----------------------------------------------------------
 
 1.Which countries have higher female participation in higher education?
-
 2.How do education structures differ across European countries?
-
 3.How can countries be grouped based on education profiles?
 
 🗂 Dataset Description
@@ -114,3 +107,12 @@ Sorting and filtering (ORDER BY, WHERE)
 Analytical metrics (shares, averages)
 Cross-table analysis using JOIN
 Cleanly commented, readable SQL queries
+
+
+Tools & Technologies
+-----------------------
+SQL: MySQL, MySQL Workbench
+Python: pandas, numpy, matplotlib, seaborn, scikit-learn
+Database Design: relational modeling, clean schema
+Visualization: Power BI (planned)
+Version Control: GitHub
