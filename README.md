@@ -98,3 +98,19 @@ gender gap (women − men)
 women share (%) per degree level
 
 The cleaned datasets were exported as CSV files and imported into MySQL Workbench.
+
+Database Design (SQL)
+---------------------------
+The project follows relational database principles:
+Each dataset stored as a separate table
+Country used as the logical join key
+
+SQL Analysis Performed
+---------------------------
+The project demonstrates strong SQL usage, including:
+Table inspection and validation
+Aggregations (SUM, AVG, COUNT)
+Sorting and filtering (ORDER BY, WHERE)
+Analytical metrics (shares, averages)
+Cross-table analysis using JOIN
+Cleanly commented, readable SQL queries
